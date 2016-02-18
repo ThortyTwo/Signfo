@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ThortyTwo/Signfo/issues"
   },
-  "homepage": "https://github.com/ThortyTwo/Signfo#readme"
+  "homepage": "https://github.com/ThortyTwo/Signfo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
