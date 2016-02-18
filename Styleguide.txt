@@ -1,0 +1,5 @@
+Airbnb Style Guide
+
+Pull Requests in past tense, as shown below: 
+
+[Feature] Implemented Google map view based on location input
