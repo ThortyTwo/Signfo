@@ -1,0 +1,28 @@
+{
+  "name": "signfo",
+  "description": "Crowdsourcing parking information app.",
+  "main": "index.js",
+  "authors": [
+    "Kyle Kodani",
+    "Kasra Jahani",
+    "Hady Wahby",
+    "Richard Yu"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "parking"
+  ],
+  "homepage": "https://github.com/ThortyTwo/Signfo",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

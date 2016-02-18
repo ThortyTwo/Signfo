@@ -1,0 +1,22 @@
+{
+  "name": "signfo",
+  "version": "1.0.0",
+  "description": "Crowdsourcing parking information app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThortyTwo/Signfo.git"
+  },
+  "keywords": [
+    "parking"
+  ],
+  "author": "Kyle Kodani, Kasra Jahani, Hady Wahby, Richard Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThortyTwo/Signfo/issues"
+  },
+  "homepage": "https://github.com/ThortyTwo/Signfo#readme"
+}
